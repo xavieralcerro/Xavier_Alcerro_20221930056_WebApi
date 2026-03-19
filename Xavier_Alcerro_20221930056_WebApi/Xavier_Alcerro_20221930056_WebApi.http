@@ -1,0 +1,6 @@
+@Xavier_Alcerro_20221930056_WebApi_HostAddress = http://localhost:5087
+
+GET {{Xavier_Alcerro_20221930056_WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
